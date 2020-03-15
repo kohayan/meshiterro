@@ -2,7 +2,7 @@
 lock "~> 3.12.1"
 
 set :application, "meshiterro"
-set :repo_url, "git@github.com:kohayan/meshiterro.git"
+set :repo_url, "https://github.com/kohayan/meshiterro.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
